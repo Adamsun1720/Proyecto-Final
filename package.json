@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "Este proyecto va a contener una pagina web para ser desplegada en un servidor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adamsun1720/Proyecto-Final.git"
+  },
+  "author": "Adam Guerrero Tejada <adamguerrrero2021@gmail.com> (www.github.com/Adamsun1720)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adamsun1720/Proyecto-Final/issues"
+  },
+  "homepage": "https://github.com/Adamsun1720/Proyecto-Final#readme"
+}

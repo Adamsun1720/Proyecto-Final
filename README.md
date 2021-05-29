@@ -12,6 +12,7 @@ Que se le agregue una paginacion incuyendo que nos pueda incluir las siguientes 
 -Galeria: Imagenes y videos.<br>
 -Nosotros: Informacion sobre nosotros y responder preguntas + el anuncio.<br>
 
+## Pagin adinamica con NodeJs, Express, Handlebars
 
 ### Rutas
 
