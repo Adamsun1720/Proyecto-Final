@@ -11,3 +11,18 @@ Que se le agregue una paginacion incuyendo que nos pueda incluir las siguientes 
 -Index: Una pagina central en la cual habra un breve resumen de la pagina con botones para moverse.<br>
 -Galeria: Imagenes y videos.<br>
 -Nosotros: Informacion sobre nosotros y responder preguntas + el anuncio.<br>
+
+
+### Rutas
+
+| Endpoint | HTTP | Description |
+| ---| --- | --- |
+|'/'| GET | Pagina de Inicio | 
+|'/Galeria'| GET | Pagina con Imagenes |
+|'/Servicios'| GET | Pagina de Servicios |
+|'/Nosotros'| GET | Pagina acerca de nosotros |
+|'/Contacto'| GET | Pagina de contactame |
+|'/404'| GET | Pagina 404 |
+
+## License
+MIT (c) Adam Guerrero Tejada
